@@ -36,30 +36,30 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
-=======
-
 
 ### 登录
-![](https://gitee.com/lcxadvance/yinghuo/raw/master/static/md/login.png)
+
+https://github.com/codelcx/yinghuo/blob/main/static/md/login.png
+
+![](https://github.com/codelcx/yinghuo/blob/main/static/md/login.png)
 
 ### 首页
-![](https://gitee.com/lcxadvance/yinghuo/raw/master/static/md/home.png)
+![](https://github.com/codelcx/yinghuo/blob/main/static/md/home.png)
 
 ### 分类
-![](https://gitee.com/lcxadvance/yinghuo/raw/master/static/md/list.png)
+![](https://github.com/codelcx/yinghuo/blob/main/static/md/list.png)
 
 ### 购物车
-![](https://gitee.com/lcxadvance/yinghuo/raw/master/static/md/shopcart1.png)
-![](https://gitee.com/lcxadvance/yinghuo/raw/master/static/md/shopcart2.png)
+![](https://github.com/codelcx/yinghuo/blob/main/static/md/shopcart1.png)
+![](https://github.com/codelcx/yinghuo/blob/main/static/md/shopcart2.png)
 
 ### 我的
-![](https://gitee.com/lcxadvance/yinghuo/raw/master/static/md/mine.png)
+![](https://github.com/codelcx/yinghuo/blob/main/static/md/mine.png)
 
 ### 搜索
-![](https://gitee.com/lcxadvance/yinghuo/raw/master/static/md/search.png)
-![](https://gitee.com/lcxadvance/yinghuo/raw/master/static/md/searchall.png)
+![](https://github.com/codelcx/yinghuo/blob/main/static/md/search.png)
+![](https://github.com/codelcx/yinghuo/blob/main/static/md/searchall.png)
 
 ### 订单
-![](https://gitee.com/lcxadvance/yinghuo/raw/master/static/md/order.png)
-![](https://gitee.com/lcxadvance/yinghuo/raw/master/static/md/orderaddress.png)
+![](https://github.com/codelcx/yinghuo/blob/main/static/md/order.png)
+![](https://github.com/codelcx/yinghuo/blob/main/static/md/orderaddress.png)
