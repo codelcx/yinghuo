@@ -1,0 +1,25 @@
+
+.icon.data-v-d9724f9e{
+	width:750rpx;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+.icon-item.data-v-d9724f9e{
+	width: 25%;
+	padding: 10rpx 0;
+	overflow: hidden;
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.icon-img.data-v-d9724f9e{
+	display: block;
+	width: 80rpx;
+	height: 80rpx;
+}
+
+

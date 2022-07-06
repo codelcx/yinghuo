@@ -1,0 +1,1 @@
+<view class="Banner"><image src="{{data}}" mode></image></view>

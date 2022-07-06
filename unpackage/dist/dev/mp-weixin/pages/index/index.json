@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "萤火商城",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "index-swiper": "/components/index/IndexSwiper",
+    "commodity-list": "/components/common/CommodityList",
+    "recommend": "/components/index/Recommend",
+    "card": "/components/common/Card",
+    "banner": "/components/index/Banner",
+    "icon": "/components/index/Icon",
+    "hot": "/components/index/Hot",
+    "shop": "/components/index/Shop"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "lines": "/components/common/Line",
+    "commodity-list": "/components/common/CommodityList"
+  }
+}

@@ -1,0 +1,23 @@
+
+.commodity.data-v-5ac280a4{
+	display: flex;
+}
+.commodity-item.data-v-5ac280a4{
+	display: flex;
+	flex-wrap: wrap;
+	padding-bottom: 10rpx;
+}
+.commdity-img.data-v-5ac280a4{
+	width:100%;
+}
+.commodity-content.data-v-5ac280a4{
+	white-space:nowrap;         
+	overflow:hidden;            
+	text-overflow:ellipsis;
+}
+.old-price.data-v-5ac280a4{
+	text-decoration: line-through;
+	color:#ccc;
+}
+
+

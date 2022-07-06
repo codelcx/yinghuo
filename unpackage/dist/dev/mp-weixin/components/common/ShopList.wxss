@@ -1,0 +1,21 @@
+
+.shop-title.data-v-9687dfe6 {
+	display: flex;
+	margin-bottom: 15rpx;
+}
+.shop-item.data-v-9687dfe6 {
+	flex: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.iconfont.data-v-9687dfe6 {
+	height: 20rpx;
+	margin-left: 8rpx;
+	font-weight: bold;
+	color:#ccc;
+}
+.active-color.data-v-9687dfe6{
+	color: blue;
+}
+
